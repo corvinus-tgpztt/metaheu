@@ -1,0 +1,45 @@
+C:\Users\szlad\source\repos\Harmonia kereses\Harmonia kereses\bin\Debug\Harmonia kereses.exe.config
+C:\Users\szlad\source\repos\Harmonia kereses\Harmonia kereses\bin\Debug\Harmonia kereses.exe
+C:\Users\szlad\source\repos\Harmonia kereses\Harmonia kereses\bin\Debug\Harmonia kereses.pdb
+C:\Users\szlad\source\repos\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia kereses.csprojAssemblyReference.cache
+C:\Users\szlad\source\repos\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia_kereses.Form1.resources
+C:\Users\szlad\source\repos\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia_kereses.Properties.Resources.resources
+C:\Users\szlad\source\repos\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia kereses.csproj.GenerateResource.cache
+C:\Users\szlad\source\repos\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia kereses.csproj.CoreCompileInputs.cache
+C:\Users\szlad\source\repos\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia kereses.exe
+C:\Users\szlad\source\repos\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia kereses.pdb
+C:\Users\szlad\Downloads\Harmonia kereses\Harmonia kereses\Harmonia kereses\bin\Debug\Harmonia kereses.exe.config
+C:\Users\szlad\Downloads\Harmonia kereses\Harmonia kereses\Harmonia kereses\bin\Debug\Harmonia kereses.exe
+C:\Users\szlad\Downloads\Harmonia kereses\Harmonia kereses\Harmonia kereses\bin\Debug\Harmonia kereses.pdb
+C:\Users\szlad\Downloads\Harmonia kereses\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia kereses.csproj.AssemblyReference.cache
+C:\Users\szlad\Downloads\Harmonia kereses\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia_kereses.Form1.resources
+C:\Users\szlad\Downloads\Harmonia kereses\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia_kereses.Properties.Resources.resources
+C:\Users\szlad\Downloads\Harmonia kereses\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia kereses.csproj.GenerateResource.cache
+C:\Users\szlad\Downloads\Harmonia kereses\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia kereses.csproj.CoreCompileInputs.cache
+C:\Users\szlad\Downloads\Harmonia kereses\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia kereses.exe
+C:\Users\szlad\Downloads\Harmonia kereses\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia kereses.pdb
+C:\Users\szlad\Downloads\Programok\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\bin\Debug\Harmonia kereses.exe.config
+C:\Users\szlad\Downloads\Programok\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\bin\Debug\Harmonia kereses.exe
+C:\Users\szlad\Downloads\Programok\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\bin\Debug\Harmonia kereses.pdb
+C:\Users\szlad\Downloads\Programok\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia kereses.csprojAssemblyReference.cache
+C:\Users\szlad\Downloads\Programok\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia_kereses.Form1.resources
+C:\Users\szlad\Downloads\Programok\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia_kereses.Properties.Resources.resources
+C:\Users\szlad\Downloads\Programok\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia kereses.csproj.GenerateResource.cache
+C:\Users\szlad\Downloads\Programok\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia kereses.csproj.CoreCompileInputs.cache
+C:\Users\szlad\Downloads\Programok\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia kereses.exe
+C:\Users\szlad\Downloads\Programok\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia kereses.pdb
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\bin\Debug\Harmonia kereses.exe.config
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\bin\Debug\Harmonia kereses.exe
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\bin\Debug\Harmonia kereses.pdb
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia kereses.csprojAssemblyReference.cache
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia_kereses.Form1.resources
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia_kereses.Properties.Resources.resources
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia kereses.csproj.GenerateResource.cache
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia kereses.csproj.CoreCompileInputs.cache
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia kereses.exe
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia kereses.pdb
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\bin\Debug\MathNet.Numerics.dll
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\bin\Debug\System.ValueTuple.dll
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\bin\Debug\MathNet.Numerics.xml
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\bin\Debug\System.ValueTuple.xml
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Harmonia kereses\Harmonia kereses\Harmonia kereses\obj\Debug\Harmonia kereses.csproj.CopyComplete
