@@ -1,0 +1,46 @@
+C:\Users\szlad\source\repos\Szimulalt_hutes\Szimulalt_hutes\bin\Debug\Szimulalt_hutes.exe.config
+C:\Users\szlad\source\repos\Szimulalt_hutes\Szimulalt_hutes\bin\Debug\Szimulalt_hutes.exe
+C:\Users\szlad\source\repos\Szimulalt_hutes\Szimulalt_hutes\bin\Debug\Szimulalt_hutes.pdb
+C:\Users\szlad\source\repos\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.csproj.AssemblyReference.cache
+C:\Users\szlad\source\repos\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.Form1.resources
+C:\Users\szlad\source\repos\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.Properties.Resources.resources
+C:\Users\szlad\source\repos\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.csproj.GenerateResource.cache
+C:\Users\szlad\source\repos\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.csproj.CoreCompileInputs.cache
+C:\Users\szlad\source\repos\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.exe
+C:\Users\szlad\source\repos\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.pdb
+C:\Users\szlad\Downloads\Programok\Programok\Szimulalt_hutes\Szimulalt_hutes\bin\Debug\Szimulalt_hutes.exe.config
+C:\Users\szlad\Downloads\Programok\Programok\Szimulalt_hutes\Szimulalt_hutes\bin\Debug\Szimulalt_hutes.exe
+C:\Users\szlad\Downloads\Programok\Programok\Szimulalt_hutes\Szimulalt_hutes\bin\Debug\Szimulalt_hutes.pdb
+C:\Users\szlad\Downloads\Programok\Programok\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.csprojAssemblyReference.cache
+C:\Users\szlad\Downloads\Programok\Programok\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.Form1.resources
+C:\Users\szlad\Downloads\Programok\Programok\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.Properties.Resources.resources
+C:\Users\szlad\Downloads\Programok\Programok\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.csproj.GenerateResource.cache
+C:\Users\szlad\Downloads\Programok\Programok\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.csproj.CoreCompileInputs.cache
+C:\Users\szlad\Downloads\Programok\Programok\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.exe
+C:\Users\szlad\Downloads\Programok\Programok\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.pdb
+C:\Users\tgpztt\Desktop\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\bin\Debug\Szimulalt_hutes.exe.config
+C:\Users\tgpztt\Desktop\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\bin\Debug\Szimulalt_hutes.exe
+C:\Users\tgpztt\Desktop\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\bin\Debug\Szimulalt_hutes.pdb
+C:\Users\tgpztt\Desktop\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.csproj.AssemblyReference.cache
+C:\Users\tgpztt\Desktop\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.csproj.SuggestedBindingRedirects.cache
+C:\Users\tgpztt\Desktop\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.Form1.resources
+C:\Users\tgpztt\Desktop\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.Properties.Resources.resources
+C:\Users\tgpztt\Desktop\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.csproj.GenerateResource.cache
+C:\Users\tgpztt\Desktop\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.csproj.CoreCompileInputs.cache
+C:\Users\tgpztt\Desktop\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.exe
+C:\Users\tgpztt\Desktop\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.pdb
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\bin\Debug\Szimulalt_hutes.exe.config
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\bin\Debug\Szimulalt_hutes.exe
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\bin\Debug\Szimulalt_hutes.pdb
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.csprojAssemblyReference.cache
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.Form1.resources
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.Properties.Resources.resources
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.csproj.GenerateResource.cache
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.csproj.CoreCompileInputs.cache
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.exe
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.pdb
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\bin\Debug\MathNet.Numerics.dll
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\bin\Debug\System.ValueTuple.dll
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\bin\Debug\MathNet.Numerics.xml
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\bin\Debug\System.ValueTuple.xml
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\Szimulalt_hutes\Szimulalt_hutes\obj\Debug\Szimulalt_hutes.csproj.CopyComplete
