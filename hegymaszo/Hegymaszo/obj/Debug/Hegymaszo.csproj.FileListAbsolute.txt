@@ -1,0 +1,46 @@
+C:\Users\szlad\Desktop\Új mappa\Hegymaszo\Hegymaszo\bin\Debug\Hegymaszo.exe.config
+C:\Users\szlad\Desktop\Új mappa\Hegymaszo\Hegymaszo\bin\Debug\Hegymaszo.exe
+C:\Users\szlad\Desktop\Új mappa\Hegymaszo\Hegymaszo\bin\Debug\Hegymaszo.pdb
+C:\Users\szlad\Desktop\Új mappa\Hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.csproj.AssemblyReference.cache
+C:\Users\szlad\Desktop\Új mappa\Hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.Properties.Resources.resources
+C:\Users\szlad\Desktop\Új mappa\Hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.csproj.GenerateResource.cache
+C:\Users\szlad\Desktop\Új mappa\Hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.csproj.CoreCompileInputs.cache
+C:\Users\szlad\Desktop\Új mappa\Hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.exe
+C:\Users\szlad\Desktop\Új mappa\Hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.pdb
+C:\Users\szlad\Desktop\Új mappa\Hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.Form1.resources
+C:\Users\szlad\Downloads\Programok\Programok\hegymaszo\Hegymaszo\bin\Debug\Hegymaszo.exe.config
+C:\Users\szlad\Downloads\Programok\Programok\hegymaszo\Hegymaszo\bin\Debug\Hegymaszo.exe
+C:\Users\szlad\Downloads\Programok\Programok\hegymaszo\Hegymaszo\bin\Debug\Hegymaszo.pdb
+C:\Users\szlad\Downloads\Programok\Programok\hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.csprojAssemblyReference.cache
+C:\Users\szlad\Downloads\Programok\Programok\hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.Form1.resources
+C:\Users\szlad\Downloads\Programok\Programok\hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.Properties.Resources.resources
+C:\Users\szlad\Downloads\Programok\Programok\hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.csproj.GenerateResource.cache
+C:\Users\szlad\Downloads\Programok\Programok\hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.csproj.CoreCompileInputs.cache
+C:\Users\szlad\Downloads\Programok\Programok\hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.exe
+C:\Users\szlad\Downloads\Programok\Programok\hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.pdb
+C:\Users\tgpztt\Desktop\marc_7\Programok\hegymaszo\Hegymaszo\bin\Debug\Hegymaszo.exe.config
+C:\Users\tgpztt\Desktop\marc_7\Programok\hegymaszo\Hegymaszo\bin\Debug\Hegymaszo.exe
+C:\Users\tgpztt\Desktop\marc_7\Programok\hegymaszo\Hegymaszo\bin\Debug\Hegymaszo.pdb
+C:\Users\tgpztt\Desktop\marc_7\Programok\hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.csproj.AssemblyReference.cache
+C:\Users\tgpztt\Desktop\marc_7\Programok\hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.csproj.SuggestedBindingRedirects.cache
+C:\Users\tgpztt\Desktop\marc_7\Programok\hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.Form1.resources
+C:\Users\tgpztt\Desktop\marc_7\Programok\hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.Properties.Resources.resources
+C:\Users\tgpztt\Desktop\marc_7\Programok\hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.csproj.GenerateResource.cache
+C:\Users\tgpztt\Desktop\marc_7\Programok\hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.csproj.CoreCompileInputs.cache
+C:\Users\tgpztt\Desktop\marc_7\Programok\hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.exe
+C:\Users\tgpztt\Desktop\marc_7\Programok\hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.pdb
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\hegymaszo\Hegymaszo\bin\Debug\Hegymaszo.exe.config
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\hegymaszo\Hegymaszo\bin\Debug\Hegymaszo.exe
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\hegymaszo\Hegymaszo\bin\Debug\Hegymaszo.pdb
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.csprojAssemblyReference.cache
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.Form1.resources
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.Properties.Resources.resources
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.csproj.GenerateResource.cache
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.csproj.CoreCompileInputs.cache
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.exe
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.pdb
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\hegymaszo\Hegymaszo\bin\Debug\MathNet.Numerics.dll
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\hegymaszo\Hegymaszo\bin\Debug\System.ValueTuple.dll
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\hegymaszo\Hegymaszo\bin\Debug\MathNet.Numerics.xml
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\hegymaszo\Hegymaszo\bin\Debug\System.ValueTuple.xml
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\hegymaszo\Hegymaszo\obj\Debug\Hegymaszo.csproj.CopyComplete
