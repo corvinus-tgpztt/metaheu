@@ -1,0 +1,46 @@
+C:\Users\szlad\Desktop\genetikus\genetikus\bin\Debug\genetikus.exe.config
+C:\Users\szlad\Desktop\genetikus\genetikus\bin\Debug\genetikus.exe
+C:\Users\szlad\Desktop\genetikus\genetikus\bin\Debug\genetikus.pdb
+C:\Users\szlad\Desktop\genetikus\genetikus\obj\Debug\genetikus.csproj.AssemblyReference.cache
+C:\Users\szlad\Desktop\genetikus\genetikus\obj\Debug\genetikus.Form1.resources
+C:\Users\szlad\Desktop\genetikus\genetikus\obj\Debug\genetikus.Properties.Resources.resources
+C:\Users\szlad\Desktop\genetikus\genetikus\obj\Debug\genetikus.csproj.GenerateResource.cache
+C:\Users\szlad\Desktop\genetikus\genetikus\obj\Debug\genetikus.csproj.CoreCompileInputs.cache
+C:\Users\szlad\Desktop\genetikus\genetikus\obj\Debug\genetikus.exe
+C:\Users\szlad\Desktop\genetikus\genetikus\obj\Debug\genetikus.pdb
+C:\Users\szlad\Downloads\Programok\Programok\genetikus\genetikus\bin\Debug\genetikus.exe.config
+C:\Users\szlad\Downloads\Programok\Programok\genetikus\genetikus\bin\Debug\genetikus.exe
+C:\Users\szlad\Downloads\Programok\Programok\genetikus\genetikus\bin\Debug\genetikus.pdb
+C:\Users\szlad\Downloads\Programok\Programok\genetikus\genetikus\obj\Debug\genetikus.csprojAssemblyReference.cache
+C:\Users\szlad\Downloads\Programok\Programok\genetikus\genetikus\obj\Debug\genetikus.Form1.resources
+C:\Users\szlad\Downloads\Programok\Programok\genetikus\genetikus\obj\Debug\genetikus.Properties.Resources.resources
+C:\Users\szlad\Downloads\Programok\Programok\genetikus\genetikus\obj\Debug\genetikus.csproj.GenerateResource.cache
+C:\Users\szlad\Downloads\Programok\Programok\genetikus\genetikus\obj\Debug\genetikus.csproj.CoreCompileInputs.cache
+C:\Users\szlad\Downloads\Programok\Programok\genetikus\genetikus\obj\Debug\genetikus.exe
+C:\Users\szlad\Downloads\Programok\Programok\genetikus\genetikus\obj\Debug\genetikus.pdb
+C:\Users\tgpztt\Desktop\marc_7\Programok\genetikus\genetikus\bin\Debug\genetikus.exe.config
+C:\Users\tgpztt\Desktop\marc_7\Programok\genetikus\genetikus\bin\Debug\genetikus.exe
+C:\Users\tgpztt\Desktop\marc_7\Programok\genetikus\genetikus\bin\Debug\genetikus.pdb
+C:\Users\tgpztt\Desktop\marc_7\Programok\genetikus\genetikus\obj\Debug\genetikus.csproj.AssemblyReference.cache
+C:\Users\tgpztt\Desktop\marc_7\Programok\genetikus\genetikus\obj\Debug\genetikus.csproj.SuggestedBindingRedirects.cache
+C:\Users\tgpztt\Desktop\marc_7\Programok\genetikus\genetikus\obj\Debug\genetikus.Form1.resources
+C:\Users\tgpztt\Desktop\marc_7\Programok\genetikus\genetikus\obj\Debug\genetikus.Properties.Resources.resources
+C:\Users\tgpztt\Desktop\marc_7\Programok\genetikus\genetikus\obj\Debug\genetikus.csproj.GenerateResource.cache
+C:\Users\tgpztt\Desktop\marc_7\Programok\genetikus\genetikus\obj\Debug\genetikus.csproj.CoreCompileInputs.cache
+C:\Users\tgpztt\Desktop\marc_7\Programok\genetikus\genetikus\obj\Debug\genetikus.exe
+C:\Users\tgpztt\Desktop\marc_7\Programok\genetikus\genetikus\obj\Debug\genetikus.pdb
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\genetikus\genetikus\bin\Debug\genetikus.exe.config
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\genetikus\genetikus\bin\Debug\genetikus.exe
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\genetikus\genetikus\bin\Debug\genetikus.pdb
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\genetikus\genetikus\obj\Debug\genetikus.csprojAssemblyReference.cache
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\genetikus\genetikus\obj\Debug\genetikus.Form1.resources
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\genetikus\genetikus\obj\Debug\genetikus.Properties.Resources.resources
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\genetikus\genetikus\obj\Debug\genetikus.csproj.GenerateResource.cache
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\genetikus\genetikus\obj\Debug\genetikus.csproj.CoreCompileInputs.cache
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\genetikus\genetikus\obj\Debug\genetikus.exe
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\genetikus\genetikus\obj\Debug\genetikus.pdb
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\genetikus\genetikus\bin\Debug\MathNet.Numerics.dll
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\genetikus\genetikus\bin\Debug\System.ValueTuple.dll
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\genetikus\genetikus\bin\Debug\MathNet.Numerics.xml
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\genetikus\genetikus\bin\Debug\System.ValueTuple.xml
+C:\Users\szlad\OneDrive\Asztali gép\uj\marc_7\Programok\genetikus\genetikus\obj\Debug\genetikus.csproj.CopyComplete
